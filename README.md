@@ -1,3 +1,4 @@
 # Elevate_labs
-Sales Trend Analysis Using SQL Aggregations
-"This process is a common task in data analytics where we analyze sales data to understand business performance over time. It involves summarizing key metrics like revenue and order volume on a monthly basis."
+Sales Trend Analysis Using SQL Aggregations:
+  
+  "This process is a common task in data analytics where we analyze sales data to understand business performance over time. It involves summarizing key metrics like revenue and order volume on a monthly basis."
